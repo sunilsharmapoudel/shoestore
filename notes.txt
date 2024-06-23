@@ -1,1 +1,22 @@
 "nodemon --env-file=.env backend/index.js"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----BlOG IDEAS
+standard folder structuring for MERN application
+ways of using .env in node project

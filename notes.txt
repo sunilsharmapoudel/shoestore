@@ -1,6 +1,13 @@
 "nodemon --env-file=.env backend/index.js"
 
 
+task--
+logger
+middware
+hash password -dycriptjs
+
+
+
 
 
 
